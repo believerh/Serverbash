@@ -1,0 +1,23 @@
+{
+  "creds": [
+    {
+      "id": 2,
+      "platform": "Linux armv81",
+      "password": "hshsusuusususus",
+      "ip": "154.161.247.239",
+      "ua": "",
+      "geo": "",
+      "timestamp": "2026-04-05T01:46:36.539Z"
+    },
+    {
+      "id": 1,
+      "platform": "Instagram",
+      "email": "0534970884",
+      "password": "vgtdguilk",
+      "ip": "154.161.234.215",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome",
+      "geo": "Kumasi, Ashanti Region",
+      "timestamp": "2026-04-05T00:22:55.460Z"
+    }
+  ]
+}
