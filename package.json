@@ -16,5 +16,13 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "lowdb": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/believerh/Serverbash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/believerh/Serverbash/issues"
+  },
+  "homepage": "https://github.com/believerh/Serverbash#readme"
 }
